@@ -1,2 +1,2 @@
 var playlist = { outkast : 'roses'}
-function updatePlaylist (playlist,artist,song) = return artist.song
+function updatePlaylist (playlist,artist,song) = return playlist.artist;
